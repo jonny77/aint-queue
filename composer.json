@@ -1,12 +1,12 @@
 {
-    "name": "littlesqx/aint-queue",
+    "name": "943626451/my-queue",
     "description": "A async-queue library built on top of swoole, flexable multi-consumer, coroutine supported.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "littlesqx",
-            "email": "littlesqx@gmail.com"
+            "name": "943626451",
+            "email": "943626451@qq.com"
         }
     ],
     "require": {
